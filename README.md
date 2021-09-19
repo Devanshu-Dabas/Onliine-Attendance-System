@@ -47,8 +47,9 @@ Check Average Attendance
 Update Profile
 Upload Profile Pic
 Update Password(encrypted format)
-Brief overview of the technology:
-Front end: HTML, CSS, JavaScript
+
+<h2>Brief overview of the technology:</h2><br>
+<h3>Front end:</h3> <br>HTML, CSS, JavaScript
 
 HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
 CSS : (Cascading Style Sheets) Create attractive Layout
@@ -58,11 +59,13 @@ JQuery.
 Ajax.
  
 
-Back end: PHP, MySQL
+<h3>Back end:</h3> <br>PHP, MySQL
 
 PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
-Software Requirement(any one)
+
+
+<h3>Software Requirement(any one)</h3>
 WAMP Server
 XAMPP Server
 MAMP Server
