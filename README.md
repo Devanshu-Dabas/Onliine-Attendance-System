@@ -11,42 +11,42 @@ parts of MVC model. This allows us to extend the project to mobile applications 
 
 
 
-Online Attendance Management System in PHP is an innovative tool to maintain and manage the attendance of students/employees. These tools can be a software to monitor attendance details.
+<h3>Online Attendance Management System</h3>in PHP is an innovative tool to maintain and manage the attendance of students/employees. These tools can be a software to monitor attendance details.
 
 Prefixing a word “online” to this tool makes this tool very resourceful technique. This is because now this tool can be accessed from anywhere around the globe.
 
 So an online Attendance Management System is an innovative way to monitor and track the attendance of students/employee.
 Also this provides a transparency in the system so that each student can view their attendance from anywhere , anytime.
 
-Features of the project
+<h2>Features of the project</h2>
 As soon as a teacher or a student joins the institution, he/she is requested to sign up to the online attendance management system. After this, admin is required to review and approve their account activation.
 As their account gets approved, they can access to their account.
 
-Users / Actors Of System
-Teacher
-Student
-Teacher
-He/she is required to create account and then gets approved by the admin.
-Teacher can Choose/assigned Multiple lectures.
-Teacher can Manage Multiple lectures multiple students Attendance.
-View the list of students assigned to them.
-Mark attendance after each lecture
-View attendance of each student assigned to them.
-Generate/Download Report of attendance in PDF Format
-Check Average Attendance
-Update Profile
-Upload Profile Pic
-Update Password(encrypted format)
-Student
-He/she needs to create an account.
-Students can register himself/herself for Multiple lectures.
-Students can Check Attendance for Multiple lectures.
-Can view their attendance from anywhere around the globe.
-Generate/Download Report of attendance in PDF Format
-Check Average Attendance
-Update Profile
-Upload Profile Pic
-Update Password(encrypted format)
+<h2>Users / Actors Of System</h2><br>
+Teacher<br>
+Student<br>
+Teacher<br>
+He/she is required to create account and then gets approved by the admin.<br>
+Teacher can Choose/assigned Multiple lectures.<br>
+Teacher can Manage Multiple lectures multiple students Attendance.<br>
+View the list of students assigned to them.<br>
+Mark attendance after each lecture<br>
+View attendance of each student assigned to them.<br>
+Generate/Download Report of attendance in PDF Format<br>
+Check Average Attendance<br>
+Update Profile<br>
+Upload Profile Pic<br>
+Update Password(encrypted format)<br>
+Student<br>
+He/she needs to create an account.<br>
+Students can register himself/herself for Multiple lectures.<br>
+Students can Check Attendance for Multiple lectures.<br>
+Can view their attendance from anywhere around the globe.<br>
+Generate/Download Report of attendance in PDF Format<br>
+Check Average Attendance<br>
+Update Profile<br>
+Upload Profile Pic<br>
+Update Password(encrypted format)<br>
 
 <h2>Brief overview of the technology:</h2><br>
 <h3>Front end:</h3> <br>HTML, CSS, JavaScript
@@ -65,7 +65,7 @@ PHP: Hypertext Preprocessor (PHP) is a technology that allows software developer
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 
 
-<h3>Software Requirement(any one)</h3>
+<h2>Software Requirement(any one)</h2><br>
 WAMP Server
 XAMPP Server
 MAMP Server
